@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://www.dropbox.com/s/x4wb970h3jn3f10/cm-13.0-20160516-UNOFFICIAL-IQ4511.zip?dl=1",
-    "timestamp": "1463375683",
+    "url": "https://d.dropbox.com/s/x4wb970h3jn3f10/lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
+    "timestamp": "1493225049",
     "api_level": "23",
     "md5sum": "816bfd3e7800551f221c7e53ac8e8b95",
-    "filename": "cm-13.0-20160516-UNOFFICIAL-IQ4511.zip",
-    "channel": "NIGHTLY",
+    "filename": "lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
+    "channel": "UNOFFICIAL",
     "changes": "https://raw.githubusercontent.com/tribetmen/ota/master/changelog",
-    "incremental": "59ac41e6ca"
+    "incremental": ""
     },
   ],
  "error": null
