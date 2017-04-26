@@ -1,11 +1,9 @@
 {
-  "response": [
-    {
-      "datetime": 1492007029, 
-      "filename": "HexagonROM-V2.3-20170412-OFFICIAL-a6000.zip", 
-      "id": "65ed39119fb0fbe6c13ea64fc4bba55a", 
-      "romtype": "official", 
-      "url": "qc4.androidfilehost.com/dl/Rg71congfID770IyGVAs6w/1492316173/529152257862718795/HexagonROM-V2.3-20170412-OFFICIAL-a6000.zip",
-      "version": "2.3"
-    }
-  ]
+    "device": "HT16",
+    "version": "13.0",
+    "md5sum": "be305e0e3274141b1c0c5712333b8540",
+    "filename": "lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
+    "datetime": "2017-04-07",
+    "url": "https://dl.dropbox.com/s/fnfnesd117eccay/lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
+    "romtype": "nightly"
+}
