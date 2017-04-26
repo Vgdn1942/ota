@@ -1,16 +1,10 @@
+
 {
- "id": null,
- "result": [
-{
-    "url": "https://d.dropbox.com/s/x4wb970h3jn3f10/lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
-    "timestamp": "1493225049",
-    "api_level": "23",
-    "md5sum": "816bfd3e7800551f221c7e53ac8e8b95",
+    "device": "HT16",
+    "version": "13.0",
+    "md5sum": "be305e0e3274141b1c0c5712333b8540",
     "filename": "lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
-    "channel": "UNOFFICIAL",
-    "changes": "https://raw.githubusercontent.com/tribetmen/ota/master/changelog",
-    "incremental": ""
-    },
-  ],
- "error": null
+    "datetime": "2017-04-26",
+    "url": "https://mirrorbits.lineageos.org/full/mako/20120707/cm-14.1-mako-signed.zip",
+    "romtype": "nightly"
 }
