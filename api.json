@@ -1,12 +1,10 @@
+
 {
-  "response": [
-    {
-      "datetime": 1493228843, 
-      "filename": "lineage-13.0-20170426-UNOFFICIAL-HT16.zip", 
-      "id": "cf84f99dde32092feaa273592cd4b457", 
-      "romtype": "official", 
-      "url": "https://dl.dropbox.com/s/fnfnesd117eccay/lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
-      "version": "2.3"
-    }
-  ]
+    "device": "HT16",
+    "version": "13.0",
+    "md5sum": "foobar",
+    "filename": "lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
+    "datetime": "2012-07-07",
+    "url": "https://dl.dropbox.com/s/fnfnesd117eccay/lineage-13.0-20170426-UNOFFICIAL-HT16.zip",
+    "romtype": "nightly"
 }
