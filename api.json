@@ -1,9 +1,12 @@
 {
-    "device": "HT16",
-    "version": "13.0",
-    "md5sum": "be305e0e3274141b1c0c5712333b8540",
-    "filename": "lineage-13.0-20170427-UNOFFICIAL-HT16.zip",
-    "datetime": "2017-04-28",
-    "url": "https://dl.dropbox.com/s/fnfnesd117eccay/lineage-13.0-20170427-UNOFFICIAL-HT16.zip",
-    "romtype": "nightly"
+  "response": [
+    {
+      "datetime": 1493279326, 
+      "filename": "HexagonROM-V2.3-20170412-OFFICIAL-shamrock", 
+      "id": "96ea4cf839141991ca3883a68a1bda14", 
+      "romtype": "official", 
+      "url": "https://qc3.androidfilehost.com/dl/hqIzbCuepBdpoqyRlDzIvg/1493378823/457095661767156520/HexagonROM-V2.3-20170412-OFFICIAL-shamrock.zip",
+      "version": "2.3"
+    }
+  ]
 }
