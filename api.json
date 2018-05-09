@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1493962149, 
-      "filename": "lineage-13.0-20170505-UNOFFICIAL-HT16.zip", 
-      "id": "2411e13cf8ac2e2c361a1d8092b96c70", 
+      "datetime": 1525907524, 
+      "filename": "lineage-13.0-20180509-UNOFFICIAL-P350.zip", 
+      "id": "db026c4d8712b6fad77375b910d0ffc9", 
       "romtype": "official", 
-      "url": "https://dl.dropbox.com/s/lfgqgnlaf7ew8vb/lineage-13.0-20170505-UNOFFICIAL-HT16.zip",
-      "version": "2.3"
+      "url": "https://github.com/Vgdn1942/android_device_ixion_P350/releases/download/v2.0/lineage-13.0-20180509-UNOFFICIAL-P350.zip",
+      "version": "2.0"
     }
   ]
 }
