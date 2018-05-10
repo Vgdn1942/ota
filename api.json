@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1525986310, 
-      "filename": "lineage-13.0-20180510-UNOFFICIAL-P350.zip", 
+      "filename": "lineage-13.0-20180511-UNOFFICIAL-P350.zip", 
       "id": "db026c4d8712b6fad77375b910d0ffc9", 
-      "romtype": "unofficial", 
-      "url": "https://github.com/Vgdn1942/android_device_ixion_P350/releases/download/v2.0/lineage-13.0-20180509-UNOFFICIAL-P350.zip",
-      "version": "2.0"
+      "romtype": "official", 
+      "url": "https://github.com/Vgdn1942/android_device_ixion_P350/releases/download/v2.0/lineage-13.0-20180511-UNOFFICIAL-P350.zip",
+      "version": "13.0"
     }
   ]
 }
