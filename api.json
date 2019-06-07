@@ -1,14 +1,36 @@
-{
-  "response": [
-    {
-      "datetime": 1526207223, 
-      "filename": "lineage-13.0-20180513-UNOFFICIAL-P350.zip", 
-      "md5sum": "26669f823aa12b9b7b4a68df915a3300", 
-      "romtype": "official", 
-      "api_level": "23", 
-      "changes": "https://raw.githubusercontent.com/Vgdn1942/ota/lineage-13.0/changelog", 
-      "url": "https://github.com/Vgdn1942/android_device_ixion_P350/releases/download/2.0/lineage-13.0-20180513-UNOFFICIAL-P350.zip", 
-      "version": "13.0" 
-    }
-  ]
-}
+[
+  {
+    "name": "v1.2",
+    "filename": "s12v55_jk_3m_v1.2.zip",
+    "md5": "ce21cd30d997e0fe35f280ee5ec98c7b",
+    "size": 315909813,
+    "builddate": 1470934360,
+    "releasedate": 1470938828000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/s/DnQUHoONUnabiAi/download",
+    "patchlevel": 0,
+    "changelog": [
+      "Test ota changelog 1",
+      "Test ota changelog 2",
+      "Test ota changelog 3",
+      "Test ota changelog 4"
+    ]
+  },
+  {
+    "name": "v1.1",
+    "filename": "s12v55_jk_3m_v1.1.zip",
+    "md5": "0b3f899440d2c0b7ffd09bbef15a94aa",
+    "size": 316164589,
+    "builddate": 1468538300,
+    "releasedate": 1468922292000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/s/ImqHg0inRkcxVI9/download",
+    "patchlevel": 0,
+    "changelog": [
+      "Test ota changelog 1",
+      "Test ota changelog 2",
+      "Test ota changelog 3",
+      "Test ota changelog 4"
+    ]
+  }
+]
