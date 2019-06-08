@@ -1,36 +1,16 @@
 [
   {
-    "name": "v1.2",
-    "filename": "s12v55_jk_3m_v1.2.zip",
-    "md5": "ce21cd30d997e0fe35f280ee5ec98c7b",
-    "size": 315909813,
-    "builddate": 1470934360,
-    "releasedate": 1470938828000,
+    "name": "08.06.2019",
+    "filename": "out_base/ota_s12v55_jk_3m-08.06.2019.zip",
+    "md5": "9be7a5aa556e17039a021a3397abdb36",
+    "size": 31702347,
+    "builddate": 1560015289,
+    "releasedate": 1560023095000,
     "device": "Blackview",
-    "url": "https://vgdn1942.ocloud.de/s/DnQUHoONUnabiAi/download",
-    "patchlevel": 0,
+    "url": "https://vgdn1942.ocloud.de/index.php/s/47mSMRfR2UmLFMo/download",
+    "patchlevel": "0",
     "changelog": [
-      "Test ota changelog 1",
-      "Test ota changelog 2",
-      "Test ota changelog 3",
-      "Test ota changelog 4"
-    ]
-  },
-  {
-    "name": "v1.1",
-    "filename": "s12v55_jk_3m_v1.1.zip",
-    "md5": "0b3f899440d2c0b7ffd09bbef15a94aa",
-    "size": 316164589,
-    "builddate": 1468538300,
-    "releasedate": 1468922292000,
-    "device": "Blackview",
-    "url": "https://vgdn1942.ocloud.de/s/ImqHg0inRkcxVI9/download",
-    "patchlevel": 0,
-    "changelog": [
-      "Test ota changelog 1",
-      "Test ota changelog 2",
-      "Test ota changelog 3",
-      "Test ota changelog 4"
+      "First OTA!"
     ]
   }
 ]
