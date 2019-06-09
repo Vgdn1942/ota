@@ -1,16 +1,17 @@
 [
   {
-    "name": "08.06.2019",
-    "filename": "ota_s12v55_jk_3m-08.06.2019.zip",
-    "md5": "9be7a5aa556e17039a021a3397abdb36",
-    "size": 31702347,
-    "builddate": 1560015289,
-    "releasedate": 1560023095000,
+    "name": "ota_s12v55_jk_3m-09.06.2019",
+    "filename": "out_base/ota_s12v55_jk_3m-09.06.2019.zip",
+    "md5": "45126929d3c1cc6301a8877a7ca91845",
+    "size": 30707653,
+    "builddate": 1560073977,
+    "releasedate": 1560078519000,
     "device": "Blackview",
-    "url": "https://vgdn1942.ocloud.de/index.php/s/47mSMRfR2UmLFMo/download",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/399XKH0Db3GKoz3/download",
     "patchlevel": "0",
     "changelog": [
-      "First OTA!"
+      "Test OTA",
+      "Update Russian translate"
     ]
   }
 ]
