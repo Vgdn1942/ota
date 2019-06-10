@@ -1,22 +1,5 @@
 [
   {
-    "name": "s12v55_jk_3m-11.06.2019",
-    "filename": "s12v55_jk_3m-11.06.2019.zip",
-    "md5": "d627ffa3d1a3e897d8ab6cfc1ac63a21",
-    "size": 61198259,
-    "builddate": 1560201015,
-    "releasedate": 1560205472000,
-    "device": "Blackview",
-    "url": "https://vgdn1942.ocloud.de/index.php/s/cY5l08fvpuU3Q0R/download",
-    "patchlevel": "0",
-    "changelog": [
-      "Update security patch 2018-09-05",
-      "Replace public releasekey customer's",
-      "Fix for OTAUpdater",
-      "Replace Launcher3"
-    ]
-  },
-  {
     "name": "s12v55_jk_3m-10.06.2019",
     "filename": "s12v55_jk_3m-10.06.2019.zip",
     "md5": "c7dba5b12193b55acf87bd51e1c72189",
