@@ -2,15 +2,15 @@
   {
     "name": "s12v55_jk_3m-10.06.2019",
     "filename": "s12v55_jk_3m-10.06.2019.zip",
-    "md5": "dc308b235926286f978dfdf61d9f4d69",
-    "size": 15381009,
-    "builddate": 1560115586,
-    "releasedate": 1560119450000,
+    "md5": "c7dba5b12193b55acf87bd51e1c72189",
+    "size": 15700631,
+    "builddate": 1560122631,
+    "releasedate": 1560133230000,
     "device": "Blackview",
-    "url": "https://vgdn1942.ocloud.de/index.php/s/o7sEVeuCnIDmF4z/download",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/RFThmkJrvUw8m0K/download",
     "patchlevel": "0",
     "changelog": [
-      "First incremental OTA update"
+      "First OTA"
     ]
   }
 ]
