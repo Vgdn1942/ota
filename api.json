@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-11.06.2019",
+    "filename": "s12v55_jk_3m-11.06.2019.zip",
+    "md5": "a20aebcdf05ddbf0cfb49b004db6d917",
+    "size": 61198963,
+    "builddate": 1560209032,
+    "releasedate": 1560212282000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/SwJnDj4e3vgDenp/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Обновление патчей безопасности 2018-09-05",
+      "Публичные ключи для подписи заменены на собственные",
+      "Исправление обновлялки",
+      "Заменён лаунчер"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-10.06.2019",
     "filename": "s12v55_jk_3m-10.06.2019.zip",
     "md5": "c7dba5b12193b55acf87bd51e1c72189",
