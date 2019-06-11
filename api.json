@@ -1,5 +1,37 @@
 [
   {
+    "name": "test2",
+    "filename": "s12v55_jk_3m-10.06.2019.zip",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "size": 0,
+    "builddate": 1560286999,
+    "releasedate": 1560291601000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/RFThmkJrvUw8m0K/download",
+    "patchlevel": "0",
+    "changelog": [
+      "333",
+      "222",
+      "111"
+    ]
+  },
+  {
+    "name": "test1",
+    "filename": "s12v55_jk_3m-10.06.2019.zip",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "size": 0,
+    "builddate": 1560286551,
+    "releasedate": 1560291601000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/RFThmkJrvUw8m0K/download",
+    "patchlevel": "0",
+    "changelog": [
+      "111",
+      "222",
+      "333"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-10.06.2019",
     "filename": "s12v55_jk_3m-10.06.2019.zip",
     "md5": "c7dba5b12193b55acf87bd51e1c72189",
