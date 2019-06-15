@@ -12,8 +12,8 @@
     "changelog": [
       "Fix potentials memory leakages",
       "Added advanced selection of network type",
-      "Units hPa (hPa/mbar) added to "Compass"",
-      "Removed background file in "Camera" weighing almost 4mb",
+      "Units hPa (hPa/mbar) added to Compass",
+      "Removed background file in Camera weighing almost 4mb",
       "Added icon to switch auto brightness in status bar",
       "Minor fix for LTE network level display in status bar"
     ]
