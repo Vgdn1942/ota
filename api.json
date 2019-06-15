@@ -1,16 +1,21 @@
 [
   {
-    "name": "s12v55_jk_3m-10.06.2019",
-    "filename": "s12v55_jk_3m-10.06.2019.zip",
-    "md5": "c7dba5b12193b55acf87bd51e1c72189",
-    "size": 15700631,
-    "builddate": 1560122631,
-    "releasedate": 1560133230000,
+    "name": "s12v55_jk_3m-ota-15.06.2019",
+    "filename": "s12v55_jk_3m-ota-15.06.2019.zip",
+    "md5": "61eb5ca738881de17e99b56025a849a7",
+    "size": 54957339,
+    "builddate": 1560619416,
+    "releasedate": 1560623458000,
     "device": "Blackview",
-    "url": "https://vgdn1942.ocloud.de/index.php/s/RFThmkJrvUw8m0K/download",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/O58WWebrPSgngOm/download",
     "patchlevel": "0",
     "changelog": [
-      "First OTA"
+      "Fix potentials memory leakages",
+      "Added advanced selection of network type",
+      "Units hPa (hPa/mbar) added to "Compass"",
+      "Removed background file in "Camera" weighing almost 4mb",
+      "Added icon to switch auto brightness in status bar",
+      "Minor fix for LTE network level display in status bar"
     ]
   }
 ]
