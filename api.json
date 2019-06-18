@@ -1,5 +1,20 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-19.06.2019",
+    "filename": "s12v55_jk_3m-ota-19.06.2019.zip",
+    "md5": "abbcee8bf249faba9fe34072a7917307",
+    "size": 46198454,
+    "builddate": 1560894770,
+    "releasedate": 1560899576000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/LffCeBghiY6JENb/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed Power Saving Mode/Battery Profiles",
+      "Added more actions to the PTT button"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-15.06.2019",
     "filename": "s12v55_jk_3m-ota-15.06.2019.zip",
     "md5": "61eb5ca738881de17e99b56025a849a7",
