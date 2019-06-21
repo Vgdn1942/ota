@@ -1,5 +1,29 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-21.06.2019",
+    "filename": "s12v55_jk_3m-ota-21.06.2019.zip",
+    "md5": "55f4f03690f597ac61402b5760cbe6c8",
+    "size": 176024213,
+    "builddate": 1561112467,
+    "releasedate": 1561116079000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/ei0dGLOUIm3SlhH/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed actions to the PTT button",
+      "Added actions for torch in screen on",
+      "Fixed Voice Match in Google app",
+      "Gesture V replace torch",
+      "Configure dalvik in build.prop",
+      "Fixed Marathon mode in Battery Saver",
+      "Fixed Russian translate",
+      "Added vibrate for screen gesture",
+      "Added Rotation modes",
+      "Added button backlight settings",
+      "Added disabled dialog on battery full"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-19.06.2019",
     "filename": "s12v55_jk_3m-ota-19.06.2019.zip",
     "md5": "abbcee8bf249faba9fe34072a7917307",
