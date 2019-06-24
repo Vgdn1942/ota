@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-24.06.2019",
+    "filename": "s12v55_jk_3m-ota-24.06.2019.zip",
+    "md5": "4c826ebf6e719e294f0f811fb454a945",
+    "size": 48352565,
+    "builddate": 1561358158,
+    "releasedate": 1561367387000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/KC8NcEgPRiYMf0L/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixing autorotation when off from the QS tile",
+      "Correction of the non-inclusion of the button illumination when pressing the app switch button",
+      "Notification backlight buttons"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-21.06.2019",
     "filename": "s12v55_jk_3m-ota-21.06.2019.zip",
     "md5": "55f4f03690f597ac61402b5760cbe6c8",
