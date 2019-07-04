@@ -1,5 +1,24 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-04.07.2019",
+    "filename": "s12v55_jk_3m-ota-04.07.2019.zip",
+    "md5": "af39792d91743ead1896d5929a1457fe",
+    "size": 57264442,
+    "builddate": 1562235668,
+    "releasedate": 1562242151000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/DF3HCQQczbJJffy/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Added adjust the overall strength of vibration",
+      "Added disabled full screen InCallUI",
+      "Disable VILTE",
+      "Video quality format WxH",
+      "Video/photo filename format dd.MM.yyyy_HH-mm-ss",
+      "Icon H+ in statusbar"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-24.06.2019",
     "filename": "s12v55_jk_3m-ota-24.06.2019.zip",
     "md5": "4c826ebf6e719e294f0f811fb454a945",
