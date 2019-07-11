@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-11.07.2019",
+    "filename": "s12v55_jk_3m-ota-11.07.2019.zip",
+    "md5": "a4e33e7f70152e997870012221c12a96",
+    "size": 62497533,
+    "builddate": 1562867551,
+    "releasedate": 1562873236000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/6M4X8V6EJ17JaeP/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Display bluetooth battery status when available in statusbar and QS Tile",
+      "Add ToolBox instead Compass",
+      "Add Cpu overlay",
+      "Set default governor to conservative instead interactive"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-04.07.2019",
     "filename": "s12v55_jk_3m-ota-04.07.2019.zip",
     "md5": "af39792d91743ead1896d5929a1457fe",
