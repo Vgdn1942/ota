@@ -12,7 +12,8 @@
     "changelog": [
       "Added tile on/off blue protection mode",
       "Added tile enable/disable processor information",
-      "Changed the algorithm for holding the PTT button for on/off flashlight"
+      "Changed the algorithm for holding the PTT button for on/off flashlight",
+      "Variable number of tiles in the quick settings"
     ]
   },
   {
