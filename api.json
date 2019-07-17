@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-17.07.2019",
+    "filename": "s12v55_jk_3m-ota-17.07.2019.zip",
+    "md5": "c36738a536f270a225c98387540d9bcd",
+    "size": 52865798,
+    "builddate": 1563350964,
+    "releasedate": 1563358089000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/zH2nJMCxGf6nonV/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Added tile on/off blue protection mode",
+      "Added tile enable/disable processor information",
+      "Changed the algorithm for holding the PTT button for on/off flashlight"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-11.07.2019",
     "filename": "s12v55_jk_3m-ota-11.07.2019.zip",
     "md5": "a4e33e7f70152e997870012221c12a96",
