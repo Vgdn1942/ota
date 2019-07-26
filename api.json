@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-26.07.2019",
+    "filename": "s12v55_jk_3m-ota-26.07.2019.zip",
+    "md5": "d852149a8f8ef4c14abffb4a312686b7",
+    "size": 51416738,
+    "builddate": 1564133180,
+    "releasedate": 1564142263000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/VWb7NKJSesRJUWm/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Removed arrows in Wi-Fi icon in statusbar",
+      "The button Mark as read is added to the notification message",
+      "The ability to change large network type icons in the statusbar",
+      "The ability to change the launch of the assistant by swipe to the left on the lock screen, to start the Phone"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-23.07.2019",
     "filename": "s12v55_jk_3m-ota-23.07.2019.zip",
     "md5": "6575f649e251f6114c482952f94b3dec",
