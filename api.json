@@ -1,5 +1,23 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-08.08.2019",
+    "filename": "s12v55_jk_3m-ota-08.08.2019.zip",
+    "md5": "46167173f97649b98e60f8ad8edf4bf7",
+    "size": 93582330,
+    "builddate": 1565274433,
+    "releasedate": 1565279525000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/08I0aRmXiQ1u4fB/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Seven icons in a half-open curtain",
+      "Choosing the location of the clock in the status bar",
+      "Clock application returned from stock",
+      "Ability to enable/disable the red status bar in power saving mode",
+      "The ability to quickly change the recovery (stock/TWRP) from the settings"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-01.08.2019",
     "filename": "s12v55_jk_3m-ota-01.08.2019.zip",
     "md5": "4b39fc0abf7b944faa97a36131c05f66",
