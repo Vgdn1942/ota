@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-09.08.2019",
+    "filename": "s12v55_jk_3m-ota-09.08.2019.zip",
+    "md5": "e0e5a8f9b4205ffb21275fec34b00123",
+    "size": 77378252,
+    "builddate": 1565376724,
+    "releasedate": 1565380827000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/SiTX2IN6y5fkdWo/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed Russian translation",
+      "The ability to install OTA via TWRP",
+      "Added closing the active application by holding the Back button with the choice of holding time",
+      "Added automatic call recording"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-08.08.2019",
     "filename": "s12v55_jk_3m-ota-08.08.2019.zip",
     "md5": "46167173f97649b98e60f8ad8edf4bf7",
