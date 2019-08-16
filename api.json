@@ -10,10 +10,14 @@
     "url": "https://vgdn1942.ocloud.de/index.php/s/TzvdqtWHpwn9SIn/download",
     "patchlevel": "0",
     "changelog": [
-      "Multisim "2G only" tile",
+      "Multisim 2G only tile",
       "The date format in the conversation recording files is returned as in stock (yyyy-MM-dd_HH.mm.ss)",
       "Ability to disable percent icon in battery text style",
-      "Fixed battery text color when charging is less than 15
+      "Fixed battery text color when charging is less than 15 percent,
+      "Added custom hosts file with ad blocking, spam, and more",
+      "Messages and Contacts are replaced by Google",
+      "Added dark theme"
+    ]
   },
   {
     "name": "s12v55_jk_3m-ota-14.08.2019",
