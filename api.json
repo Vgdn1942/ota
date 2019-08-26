@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-26.08.2019",
+    "filename": "s12v55_jk_3m-ota-26.08.2019.zip",
+    "md5": "8ea7a325fcf8956d370276e6b402553f",
+    "size": 73070605,
+    "builddate": 1566839288,
+    "releasedate": 1566848948000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/rhND2OtroJw5i9d/download",
+    "patchlevel": "0",
+    "changelog": [
+      "TTL fixation value selection",
+      "Updated dark theme and expanded list of supported applications",
+      "Returned stock applications of the calendar, calculator, contacts and messages"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-23.08.2019",
     "filename": "s12v55_jk_3m-ota-23.08.2019.zip",
     "md5": "bad7640d2e5e49decd4826b00ba59df3",
