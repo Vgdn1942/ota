@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-30.10.2019",
+    "filename": "s12v55_jk_3m-ota-30.10.2019.zip",
+    "md5": "b1ad9239d30f4fd85ba2dbea1c2664e9",
+    "size": 59637931,
+    "builddate": 1572455597,
+    "releasedate": 1572459623000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/W1tCPacIsjxOvk0/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed functionality of physical buttons",
+      "Added USB Keyboard app",
+      "In the standard camera application, you can turn on the maximum brightness of the backlight"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-26.10.2019",
     "filename": "s12v55_jk_3m-ota-26.10.2019.zip",
     "md5": "ee795f48862f5246bf20369eb62c9be6",
