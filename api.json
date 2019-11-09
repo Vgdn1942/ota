@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-09.11.2019",
+    "filename": "s12v55_jk_3m-ota-09.11.2019.zip",
+    "md5": "c72e18a21a09b61da9e648069f08c8d8",
+    "size": 62760023,
+    "builddate": 1573274462,
+    "releasedate": 1573328263000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/WWgHymjg22Y4gmC/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed functionality of physical buttons",
+      "Added aptX codec",
+      "Increased bitrate sound via bluetooth default",
+      "Added switching to an alternative SBC codec and increasing bitrate"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-30.10.2019",
     "filename": "s12v55_jk_3m-ota-30.10.2019.zip",
     "md5": "b1ad9239d30f4fd85ba2dbea1c2664e9",
