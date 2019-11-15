@@ -1,5 +1,25 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-15.11.2019",
+    "filename": "s12v55_jk_3m-ota-15.11.2019.zip",
+    "md5": "7801528f35bdd6f2e7e83cd41840a3cd",
+    "size": 62882524,
+    "builddate": 1573842351,
+    "releasedate": 1573846953000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/yeEF4nldO0NB4Gx/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Phone number in call recording file name",
+      "Fixed night mode",
+      "Fixed screen translation",
+      "Added the ability to enable navbar",
+      "Disabled EPDG",
+      "A2DP bitrate value returned by default",
+      "In the kernel added wireguard"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-09.11.2019",
     "filename": "s12v55_jk_3m-ota-09.11.2019.zip",
     "md5": "c72e18a21a09b61da9e648069f08c8d8",
