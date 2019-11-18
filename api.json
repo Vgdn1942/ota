@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-18.11.2019",
+    "filename": "s12v55_jk_3m-ota-18.11.2019.zip",
+    "md5": "d6466558be7a6a6def17e9b39d137f25",
+    "size": 53718507,
+    "builddate": 1574054869,
+    "releasedate": 1574059764000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/URcN5eEWbBF7h19/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Cursor control with volume buttons",
+      "Change shortcuts on the lock screen",
+      "Navbar inclusion tile",
+      "Battery statistics are displayed from 0 percent"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-15.11.2019",
     "filename": "s12v55_jk_3m-ota-15.11.2019.zip",
     "md5": "7801528f35bdd6f2e7e83cd41840a3cd",
