@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-20.11.2019",
+    "filename": "s12v55_jk_3m-ota-20.11.2019.zip",
+    "md5": "ef4ce7d92051920840a2a39d635b6eff",
+    "size": 47159585,
+    "builddate": 1574247009,
+    "releasedate": 1574250513000,
+    "device": "Blackview",
+    "url": "http://l257728y.beget.tech/ota/s12v55_jk_3m-ota-20.11.2019.zip",
+    "patchlevel": "0",
+    "changelog": [
+      "The ability to disable touch buttons with tiles in the curtain",
+      "The ability to disable the user icon in the open curtain",
+      "Change OTA server"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-18.11.2019",
     "filename": "s12v55_jk_3m-ota-18.11.2019.zip",
     "md5": "d6466558be7a6a6def17e9b39d137f25",
