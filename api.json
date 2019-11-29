@@ -1,5 +1,24 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-29.11.2019",
+    "filename": "s12v55_jk_3m-ota-29.11.2019.zip",
+    "md5": "e1528c0ceb212c5e3cb6359a4deb68e9",
+    "size": 61060309,
+    "builddate": 1575020970,
+    "releasedate": 1575024915000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/oP7ASHqV0YnSQeQ/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Added VOLTE/IMS",
+      "Theme settings are moved to the screen settings and work the same way in supported applications",
+      "Fixed changing font size when switching dark mode",
+      "Added support for NTFS (read-only), exFAT, f2fs file systems",
+      "Removed File Manager",
+      "Fixed not turning on the sensor when resetting the second call"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-20.11.2019",
     "filename": "s12v55_jk_3m-ota-20.11.2019.zip",
     "md5": "ef4ce7d92051920840a2a39d635b6eff",
