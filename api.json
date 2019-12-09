@@ -1,5 +1,25 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-09.12.2019",
+    "filename": "s12v55_jk_3m-ota-09.12.2019.zip",
+    "md5": "bb544c3149f78ced5de85d9f56d5e5e2",
+    "size": 73669337,
+    "builddate": 1575888068,
+    "releasedate": 1575893107000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/1TQODa2PU09aanJ/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Turn off notifications from Wi-Fi Calls",
+      "Updated Emoji",
+      "Fixed the behavior of physical buttons",
+      "Background cleanup fixed",
+      "In background cleaning, the ability to remove from recent has been added and the choice of delay time has been expanded",
+      "Returned stock File manager",
+      "Added line net.hostname=BV6000 to build.prop"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-03.12.2019",
     "filename": "s12v55_jk_3m-ota-03.12.2019.zip",
     "md5": "08546ad39f5fe9cc9dddae46f59b056e",
