@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-25.12.2019",
+    "filename": "s12v55_jk_3m-ota-25.12.2019.zip",
+    "md5": "e8bcdc63301c6726b3f314655f87e822",
+    "size": 64507902,
+    "builddate": 1577262581,
+    "releasedate": 1577266013000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/Uj73iFS48ekf96F/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Added 2G/4G network mode",
+      "Added custom network mode switching tile",
+      "Added incremental call to call"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-09.12.2019",
     "filename": "s12v55_jk_3m-ota-09.12.2019.zip",
     "md5": "bb544c3149f78ced5de85d9f56d5e5e2",
