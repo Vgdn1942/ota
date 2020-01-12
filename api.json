@@ -1,5 +1,24 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-12.01.2020",
+    "filename": "s12v55_jk_3m-ota-12.01.2020.zip",
+    "md5": "6e46c5f056e3da67542c5527be55fca4",
+    "size": 61036999,
+    "builddate": 1578844640,
+    "releasedate": 1578848874000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/2w5KemdeKTIPjfX/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Add Network Socket Request Manager",
+      "Enable App Ops",
+      "Battery saver for all system applications",
+      "Ability to disable most system applications",
+      "FM-Radio without headphones",
+      "Improved scrolling lists in settings"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-25.12.2019",
     "filename": "s12v55_jk_3m-ota-25.12.2019.zip",
     "md5": "e8bcdc63301c6726b3f314655f87e822",
