@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-31.01.2020",
+    "filename": "s12v55_jk_3m-ota-31.01.2020.zip",
+    "md5": "61101f8279ab12b4049072a4074b6fea",
+    "size": 165013826,
+    "builddate": 1580496566,
+    "releasedate": 1580500436000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/Uha30D6vuc0i66t/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed inaccessibility of Voice Match (Ok Google)",
+      "Unlock friezes fixed",
+      "Fixed disabling the Cellular data always active item"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-26.01.2020",
     "filename": "s12v55_jk_3m-ota-26.01.2020.zip",
     "md5": "5e845fc2d555dc5f3f60cde28df53bfc",
