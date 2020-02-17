@@ -1,5 +1,24 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-17.02.2020",
+    "filename": "s12v55_jk_3m-ota-17.02.2020.zip",
+    "md5": "118bb461b170bc89e232428aa61205c2",
+    "size": 67551150,
+    "builddate": 1581960451,
+    "releasedate": 1581965748000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/pV7W9x0wGBzYtvs/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Choosing the action for a long press of the home button",
+      "Google Services bug fixed",
+      "Change the Wi-Fi MAC address and hostname",
+      "Video camera format changed from 3gp to mp4",
+      "Close All button in recent",
+      "HID mode removed"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-31.01.2020",
     "filename": "s12v55_jk_3m-ota-31.01.2020.zip",
     "md5": "61101f8279ab12b4049072a4074b6fea",
