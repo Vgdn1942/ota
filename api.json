@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-08.03.2020",
+    "filename": "s12v55_jk_3m-ota-08.03.2020.zip",
+    "md5": "8fa2ce4397577911010a0dbdc1957576",
+    "size": 54988545,
+    "builddate": 1583654594,
+    "releasedate": 1583666629000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/gcC41e6KucWgziw/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed launching the camera by double-clicking the power button",
+      "The area of pressing the button to clear the recent has been fixed",
+      "Added bootmenu"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-17.02.2020",
     "filename": "s12v55_jk_3m-ota-17.02.2020.zip",
     "md5": "118bb461b170bc89e232428aa61205c2",
