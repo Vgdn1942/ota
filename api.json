@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-27.04.2020",
+    "filename": "s12v55_jk_3m-ota-27.04.2020.zip",
+    "md5": "6d61b5a6ca3fc763455c99ebe53dd70b",
+    "size": 73073019,
+    "builddate": 1587988987,
+    "releasedate": 1587992899000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/Lc1Bg5RHBsqQGko/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Deleted mtk-su",
+      "Disabled kernel debugging",
+      "Messages stock from android 7"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-26.04.2020",
     "filename": "s12v55_jk_3m-ota-26.04.2020.zip",
     "md5": "bccecdce14ead81441b3fa2872d286ae",
