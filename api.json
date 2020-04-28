@@ -1,5 +1,21 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-28.04.2020",
+    "filename": "s12v55_jk_3m-ota-28.04.2020.zip",
+    "md5": "63e6581169f417e19cda47f82fa7a01f",
+    "size": 53653297,
+    "builddate": 1588074803,
+    "releasedate": 1588079009000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/2mgCtdk9KqV0Bhz/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed vulnerability CVE-2020-0069",
+      "Fixed shutdown at 3-4 percent",
+      "Fixed display of remaining time in the battery tile"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-27.04.2020",
     "filename": "s12v55_jk_3m-ota-27.04.2020.zip",
     "md5": "6d61b5a6ca3fc763455c99ebe53dd70b",
