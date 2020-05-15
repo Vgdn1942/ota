@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-15.05.2020",
+    "filename": "s12v55_jk_3m-ota-15.05.2020.zip",
+    "md5": "ccb3418ae979866c32489b9625abaac5",
+    "size": 79368362,
+    "builddate": 1589520364,
+    "releasedate": 1589552635000,
+    "device": "Blackview",
+    "url": "https://vgdn1942.ocloud.de/index.php/s/uFD05NrQw6PBZGn/download",
+    "patchlevel": "0",
+    "changelog": [
+      "Updated dark themes",
+      "The default vibration is 60 percent",
+      "Updated wireguard",
+      "Returned stock SMS application with a dark theme"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-28.04.2020",
     "filename": "s12v55_jk_3m-ota-28.04.2020.zip",
     "md5": "63e6581169f417e19cda47f82fa7a01f",
