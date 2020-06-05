@@ -1,5 +1,22 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-05.06.2020",
+    "filename": "s12v55_jk_3m-ota-05.06.2020.zip",
+    "md5": "149cc87c2e909d0279ff5349fe986125",
+    "size": 52216962,
+    "builddate": 1591342165,
+    "releasedate": 1591346536000,
+    "device": "Blackview",
+    "url": "https://github.com/Vgdn1942/ota/releases/download/05.06.2020/s12v55_jk_3m-ota-05.06.2020.zip",
+    "patchlevel": "0",
+    "changelog": [
+      "Fixed GPU settings in the Performance menu",
+      "Fixed assignment of the Back button to physical buttons",
+      "Added support for xinput devices",
+      "Dark theme in File Manager"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-15.05.2020",
     "filename": "s12v55_jk_3m-ota-15.05.2020.zip",
     "md5": "ccb3418ae979866c32489b9625abaac5",
