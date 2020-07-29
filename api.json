@@ -1,5 +1,19 @@
 [
   {
+    "name": "s12v55_jk_3m-ota-29.07.2020",
+    "filename": "s12v55_jk_3m-ota-29.07.2020.zip",
+    "md5": "b1b9ac33261a4d3723fd183ad1f42c3d",
+    "size": 74869962,
+    "builddate": 1596044162,
+    "releasedate": 1596048486000,
+    "device": "Blackview",
+    "url": "https://github.com/Vgdn1942/ota/releases/download/29.07.2020/s12v55_jk_3m-ota-29.07.2020.zip",
+    "patchlevel": "0",
+    "changelog": [
+      "Added an action to rotate the screen on pressing physical buttons"
+    ]
+  },
+  {
     "name": "s12v55_jk_3m-ota-05.06.2020",
     "filename": "s12v55_jk_3m-ota-05.06.2020.zip",
     "md5": "149cc87c2e909d0279ff5349fe986125",
